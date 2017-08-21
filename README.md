@@ -1,5 +1,5 @@
 # hello_world
-My first repository
 Hi everyone!
 I'm Phuk.
+This is my first repository.
 Nice to meet you.
